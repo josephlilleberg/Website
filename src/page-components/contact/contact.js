@@ -127,10 +127,10 @@ const ContactForm = (prop) => {
 
         emailjs
           .send(
-            "service_yb6j7w3",
-            "template_ea9gkof",
+            process.env.EMAILJS_SERVICE_ID,
+            process.env.EMAILJS_TEMPLATE_ID,
             values,
-            "VKW1cIZkSzMn-6VwE"
+            process.env.EMAILJS_PUBLIC_KEY,
           )
           .then(
             (result) => {
