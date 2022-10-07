@@ -1,0 +1,76 @@
+{
+  "Featured": [
+    {
+      "image": "https://images.unsplash.com/photo-1634621389197-d5f3b0056861?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80",
+      "date": "November 11, 2020",
+      "title": "Philosophical Text Generation with Reformers",
+      "description": "Trained a reformer model on Socrates text using Google's Trax to generate philosophical prompts.",
+      "link": "https://github.com/jlilleberg/Philosophical-Text-Generation-using-Reformers"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1550852826-5369a2d5e585?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1315&q=80",
+      "date": "June 23, 2020",
+      "title": "Forecasting Platinum and Pallidium Stock Prices",
+      "description": "Forecasted the stock prices of platinum and pallidum by applying the concepts and methodologies of Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos",
+      "link": "https://github.com/jlilleberg/Forecasting-Platinum-Palladium-Prices"
+    },
+    {
+      "image": "https://play-lh.googleusercontent.com/aWQXRrdKe8fy5qx5ZjE6zes0U9lhHpRS8Gcrrz3KeNOyH2MQ3vrVcfVr1-6CQf5AcxY",
+      "date": "March 17, 2017",
+      "title": "ForkHub",
+      "description": "Refactored ForkHub's code base using various design principles and factory patterns.",
+      "link": "https://github.com/jlilleberg/ForkHub"
+    }
+  ],
+  "All": [
+    {
+      "image": "https://images.unsplash.com/photo-1634621389197-d5f3b0056861?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80",
+      "date": "November 11, 2020",
+      "title": "Philosophical Text Generation with Reformers",
+      "description": "Trained a reformer model on Socrates text using Google's Trax to generate philosophical prompts.",
+      "link": "https://github.com/jlilleberg/Philosophical-Text-Generation-using-Reformers"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1523483402728-beb8ed707470?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80",
+      "date": "November 9, 2020",
+      "title": "High Imbalance Multiclass Artwork Classification",
+      "description": "Performed multiclass classification on artwork from a highly imbalanced dataset.",
+      "link": "https://github.com/jlilleberg/Classifying-Artists-from-their-Artwork-with-High-Class-Imbalance-using-Transfer-Learning"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1593280405106-e438ebe93f5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+      "date": "November 9, 2020",
+      "title": "Used Cars Price Prediction",
+      "description": "Predicted used car prices utilizing TensorFlow's preprocessing layers for a streamlined pipeline.",
+      "link": "https://github.com/jlilleberg/Predict-Used-Cars-Prices-with-DNN"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1550852826-5369a2d5e585?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1315&q=80",
+      "date": "June 23, 2020",
+      "title": "Forecasting Platinum and Pallidium Stock Prices",
+      "description": "Forecasted the stock prices of platinum and pallidum by applying the concepts and methodologies of Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos",
+      "link": "https://github.com/jlilleberg/Forecasting-Platinum-Palladium-Prices"
+    },
+    {
+      "image": "https://images.fineartamerica.com/images-medium-large-5/red-blood-cells-abstract-medical-laboratory-square-andee-photography.jpg",
+      "date": "June 22, 2020",
+      "title": "Malaria Detection",
+      "description": "Built a classifier to detect Malaria using segemented cells from falciparum-infected and healthy patients.",
+      "link": "https://github.com/jlilleberg/Malaria-Cell-Images-Classification"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1587827610998-1da36c463187?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YW1lcmljYSUyMGZsYWd8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "date": "February 12, 2020",
+      "title": "United States Presidential Speeches Dataset",
+      "description": "Built a dataset containing all Presiedent speeches up to Sept. 25, 2019. This dataset is segemented into the 6 political eras of American politics. The purpose of building this dataset is to understand the platform and political atmosphere of the respective periods.",
+      "link": "https://www.kaggle.com/datasets/littleotter/united-states-presidential-speeches"
+    },
+    {
+      "image": "https://play-lh.googleusercontent.com/aWQXRrdKe8fy5qx5ZjE6zes0U9lhHpRS8Gcrrz3KeNOyH2MQ3vrVcfVr1-6CQf5AcxY",
+      "date": "March 17, 2017",
+      "title": "ForkHub",
+      "description": "Refactored ForkHub's code base using various design principles and factory patterns.",
+      "link": "https://github.com/jlilleberg/ForkHub"
+    }
+  ]
+}
