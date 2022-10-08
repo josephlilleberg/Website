@@ -1,54 +1,31 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
+
 <h1 align="center">
-  Gatsby minimal starter
+  Website Portfolio: www.josephlilleberg.com
 </h1>
 
-## 🚀 Quick start
+## 🥰 Tools & Technologies
 
-1.  **Create a Gatsby site.**
+1.  **Domain Name Registrar**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
-
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+    https://www.namecheap.com
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    # username
+    lilleberg
+
+    # expires
+    Oct 7, 2023
     ```
 
-3.  **Open the code and start customizing!**
+2.  **Web Hosting**
 
-    Your site is now running at http://localhost:8000!
+    https://www.netlify.com
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    ```shell
+    # login
+    github account
+    ```
 
-4.  **Learn more**
+ 3. **How to update?**
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+    Simply make changes to files and push repo
