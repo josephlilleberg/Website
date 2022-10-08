@@ -99,8 +99,11 @@ const IndexLanding = () => {
               &#x2014; Machine learning engineer
             </p>
             <p className="text-xs smmd:text-base">
-              Resolving the ambiguity in language and gaining insight into its
-              potential is a creative problem is a passion I c
+              Data centric, minimalist, and aspiring chef. I focus on the
+              creative ways data can be used to derive stories, analyses, and
+              context to make informed decisions and inspire growth. Currently,
+              I am captivated by the complexities of languages and resolving
+              their ambiguity is a creative problem I am very passionate about.
             </p>
           </div>
           <motion.div
@@ -137,52 +140,3 @@ const IndexLanding = () => {
 };
 
 export default IndexLanding;
-
-/*
-<div className="flex">
-          <div className="flex flex-col gap-y-4"> 
-            <div className="text-primary-darker dark:text-primary-lighter flex flex-col items-center gap-y-2 text-4xl font-semibold sm:items-start sm:text-5xl md:text-6xl lg:text-8xl">
-              <div className="flex font-sans">
-                
-                <motion.div
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                  transition={{ duration: 1 }}
-                >
-                  Hello,
-                </motion.div>
-                <motion.div
-                  initial={{ opacity: 0 }}
-                  animate={{ rotate: [0, 30, 0, 30, 0, 30, 0], opacity: 1 }}
-                  transition={{ duration: 1.5, delay: 1.75 }}
-                  className="ml-4"
-                >
-                  👋
-                </motion.div>
-              </div>
-              <motion.div
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ duration: 1, delay: 0.5 }}
-              >
-                I'm <span className="text-lm-primary">Joseph</span>.
-              </motion.div>
-              <motion.div
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ duration: 1, delay: 1 }}
-              >
-                AI Enthusiast
-              </motion.div>
-            </div>
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ duration: 1, delay: 1.5 }}
-              className="text-primary-dark dark:text-primary-light text-xs sm:text-sm md:text-lg lg:text-xl"
-            >
-              I'm a machine learning engineer who specializes
-            </motion.div>
-          </div>
-        </div>
-        */
